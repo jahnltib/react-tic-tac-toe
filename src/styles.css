@@ -6,7 +6,7 @@
 /* Setting up default font and spacing for the body */
 body {
   font-family: "Pixelify Sans", sans-serif;
-  margin: 20px; /* Added margin to create space around the app */
+  margin: 20px; 
   padding: 0;
   background-color: #252422;
   color: #cddafd;
@@ -14,7 +14,7 @@ body {
 
 /* Styling for each square in the tic tac toe board */
 .square {
-  background: #403d39; /* Modified background color */
+  background: #403d39;
   border: 1px solid #ccc5b9;
   float: left;
   font-size: 80px;
@@ -50,8 +50,8 @@ body {
 
 /* Container for the game */
 .game {
-  display: flex; /* Using Flexbox for layout flexibility */
-  flex-direction: row; /* Arranging game components horizontally */
+  display: flex; 
+  flex-direction: row; 
   justify-content: center;
   align-content: center;
 }

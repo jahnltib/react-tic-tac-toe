@@ -113,24 +113,3 @@ function calculateWinner(squares) {
   }
   return null;
 }
-
-
-/* Notes
-- when a function returns multiple components, a fragment is needed.
-- custom components must start with a capital letter
-*/
-
-/*
-export: makes the function accessisble outside of the file
-default: tells other files using code that this is the main function 
-in your file
-
-output: a jsx fragment consisting of multiple components
-
-className="Board" assign a class name so CSS can select,
-then style it with properties
-*/
-
-/* 
-
-*/
