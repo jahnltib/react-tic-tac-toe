@@ -1,6 +1,7 @@
 
 # React tic-tac-toe app
 
+![Screenshot of React Tic Tac Toe App](screenshot.png)
 
 Based off the official react tutorial: https://react.dev/learn/tutorial-tic-tac-toe. I created this app to practice state managment and conditional rendering in React. Styled with custom vanilla CSS.
 
